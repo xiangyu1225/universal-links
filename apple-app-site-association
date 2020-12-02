@@ -1,15 +1,15 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "475LSYU6NC.com.weiwo.test",
-				"paths": [ "*"]
-			},
-			{
-				"appID": "475LSYU6NC.com.weiwo.test",
-				"paths": [ "*"]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "G7JPNQG72M.com.veeva.sfaapp",
+                "paths": ["/app/*"]
+            },
+            {
+                "appID": "G7JPNQG72M.com.veeva.sfaapp",
+                "paths": ["*"]
+            }
+        ]
+    }
 }
